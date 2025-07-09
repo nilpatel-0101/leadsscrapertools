@@ -8,5 +8,5 @@ google-auth==2.23.0
 google-auth-oauthlib==1.0.0
 google-auth-httplib2==0.1.0
 python-dotenv==1.0.0
-lxml==4.9.3
+lxml==4.9.4 --only-binary :all:
 
